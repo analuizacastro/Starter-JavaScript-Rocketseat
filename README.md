@@ -39,7 +39,7 @@
 10) Interval and timeout
 
 ## Exercises
-###1) Create a function that given the following object:
+### 1) Create a function that given the following object:
 > The exercise was translated to english, so some words may diverge from the real exercise but the goals steel the same. :) 
 ```js
 var address = {  
@@ -56,8 +56,8 @@ And return the following content:
 ```
 As result we find:
 ![Result Exercise 1](https://raw.githubusercontent.com/analuizacastro/Starter-JavaScript-Rocketseat/master/M1_E1.png)
-You can see the full script [here]( https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E1.html) 
-:crystal_ball: 
+You can see the full script [here]( https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E1.html) :crystal_ball:
+
 ---
 
 Made with :yellow_heart: by Ana Luiza Castro
