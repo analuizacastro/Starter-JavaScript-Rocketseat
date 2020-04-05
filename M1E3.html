@@ -1,0 +1,19 @@
+<html>
+  <script>
+// METHOD 1
+  function hasSkill(skills) {  
+      console.log(skills.includes("Javascript"));
+  }
+  var skills = ["Javascript", "ReactJS", "React Native"];
+  hasSkill(skills); // true ou false
+
+// METHOD 2
+  function hasSkill2(skills2) {
+      if (skills2.indexOf('Javascript') > -1){
+          console.log(true)
+      } else {}
+  }
+  var skills2 = ["Javascript", "ReactJS", "React Native"];
+  hasSkill2(skills2); // true ou false
+  </script>
+</html>
