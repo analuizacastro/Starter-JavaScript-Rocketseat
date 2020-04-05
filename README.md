@@ -54,9 +54,7 @@ And return the following content:
 ```js
 "The user lives in 1293 Pinheiros St, São Paulo, SP, Brazil."
 ```
-As result we find:
-![Result Exercise 1](https://raw.githubusercontent.com/analuizacastro/Starter-JavaScript-Rocketseat/master/M1_E1.png)
-You can see the full script [here]( https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E1.html) :crystal_ball:
+You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/Module_1/Exercise_1.html) :crystal_ball:
 
 ### 2) Create a function that gives an interval (between x and y) and displays all even numbers:
 ```js
@@ -66,9 +64,7 @@ function even(x, y) {
 even(32, 321);
 };
 ```
-As result we find:
-![Result Exercise 2](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1_E2.png)
-You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E2.html) :crystal_ball:
+You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/Module_1/Exercise_2.html) :crystal_ball:
 
 ### 3) Write a function that checks whether the following skill vector has the "Javascript" skill and returns a true / false Boolean whether or not it exists:
 ```js
@@ -79,7 +75,7 @@ var skills = ["Javascript", "ReactJS", "React Native"];
 hasSkill(skills); // true or false
 };
 ```
-You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E3.html) :crystal_ball:
+You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/Module_1/Exercise_3.html) :crystal_ball:
 
 ### 4) Write a function that, given a total of years of study, returns how experienced the user is:
 ```js
@@ -93,8 +89,27 @@ experience(yearsStudying);
 // 3-6 years: Advanced
 // 7 years: Jedi Master
 ```
-You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E4.html) :crystal_ball:
+You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/Module_1/Exercise_4.html) :crystal_ball:
 
+### 5) Given the following vector of objects:
+```js
+var users = [
+  {
+    name: "Diego",
+    skills: ["Javascript", "ReactJS", "Redux"]
+  },
+  {
+    name: "Gabriel",
+    skills: ["VueJS", "Ruby on Rails", "Elixir"]
+  }
+];
+```
+Write a function that produces the following result:
+```
+Diego has the skills: Javascript, ReactJS, Redux
+Gabriel has the skills: VueJS, Ruby on Rails, Elixir
+```
+You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/Module_1/Exercise_5.html) :crystal_ball:
 
 ---
 
