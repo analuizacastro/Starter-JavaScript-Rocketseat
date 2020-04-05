@@ -58,6 +58,19 @@ As result we find:
 ![Result Exercise 1](https://raw.githubusercontent.com/analuizacastro/Starter-JavaScript-Rocketseat/master/M1_E1.png)
 You can see the full script [here]( https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E1.html) :crystal_ball:
 
+### 2) Create a function that gives an interval (between x and y) and displays all even numbers:
+> The exercise was translated to english, so some words may diverge from the real exercise but the goals steel the same. :) 
+```js
+function even(x, y) {
+  // code here
+}
+even(32, 321);
+};
+```
+As result we find:
+![Result Exercise 2](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1_E2.png)
+You can see the full script [here](https://github.com/analuizacastro/Starter-JavaScript-Rocketseat/blob/master/M1E2.html) :crystal_ball:
+
 ---
 
 Made with :yellow_heart: by Ana Luiza Castro
