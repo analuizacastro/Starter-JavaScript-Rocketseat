@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <button onclick="addSquare()">Add</button>
+  <div id="add">
+  </div>
+  <script>
+    function addSquare(){
+      var redSquare = document.createElement('div')
+      redSquare.style.width = '100px';
+      redSquare.style.height = '100px';
+      redSquare.style.background = 'red';
+
+      var localBox = document.querySelector('div#add')
+      localBox.appendChild(redSquare);
+    }
+  </script>
+</body>
+</html>
